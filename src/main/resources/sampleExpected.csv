@@ -1,0 +1,3 @@
+CurrencyPair,AmountBaseCurrency,AmountTermCurrency,MarketRate
+AUDUSD      ,8000000.00        ,-5646400.00       ,0.7058
+EURUSD      ,5000000.00        ,-5676000.00       ,1.1352
